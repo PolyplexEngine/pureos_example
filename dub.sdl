@@ -1,0 +1,8 @@
+name "pureostest"
+description "A test polyplex app for Librem5"
+authors "Luna"
+copyright "Copyright © 2019, Luna"
+license "GPL-3"
+dependency "pp" version="~>0.0.5"
+targetName "PureOSTest"
+subConfiguration "pp" "OpenGL_ES"
