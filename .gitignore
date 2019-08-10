@@ -1,0 +1,5 @@
+.dub/
+content/
+PureOSTest
+*.tar.xz
+dub.selections.json

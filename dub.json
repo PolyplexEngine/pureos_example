@@ -1,0 +1,13 @@
+{
+	"name": "pureostest",
+	"targetName": "PureOSTest",
+	"description": "A test polyplex app for Librem5",
+	"authors": [
+		"Luna"
+	],
+	"copyright": "Copyright © 2019, Luna",
+	"license": "GPL-3",
+	"dependencies": {
+		"pp": "~>0.0.5"
+	}
+}
